@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_test"]=self["webpackChunkvue_test"]||[]).push([[491],{5491:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,t=e._self._c;return t("div",[t("h6",[e._v("我是团购订单")])])}],s={name:"Team"},c=s,a=n(1001),f=(0,a.Z)(c,u,r,!1,null,"524230ca",null),l=f.exports}}]);
